@@ -1,6 +1,6 @@
 # 基于数据分析任务的 Agent 能力测评
 
-完整分析见文章：
+完整分析见文章：[https://mp.weixin.qq.com/s/55_8KdbmJayW38OxSkd8IQ](https://mp.weixin.qq.com/s/55_8KdbmJayW38OxSkd8IQ)
 
 ## 目录
 
